@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gautam</h1>
 <h3 align="center">A passionate App developer and Working as an intern in HumanFracatal Ai</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pgautam27&label=Profile%20views&color=0e75b6&style=flat" alt="pgautam27" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pgautam27" alt="pgautam27" /></a> </p>
 
 - 🌱 I’m currently learning **Kotlin and android studio**
