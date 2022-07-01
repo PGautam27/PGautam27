@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gautam</h1>
-<h3 align="center">A passionate App developer and Active Learner</h3>
+<h3 align="center">A passionate App developer and an Active Learner</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pgautam27" alt="pgautam27" /></a> </p>
 
