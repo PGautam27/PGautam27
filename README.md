@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pgautam27" alt="pgautam27" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin, android studio, Python and django**
+- 🌱 I’m currently learning **Kotlin, android studio, Python, and django**
 
 - 💬 Ask me about **Kotlin, java, django, and android app dev**
 
