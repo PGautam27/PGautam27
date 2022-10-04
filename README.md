@@ -22,4 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pgautam27&show_icons=true&locale=en" alt="pgautam27" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pgautam27&" alt="pgautam27" /></p>
 <br>
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=pgautam27&bg_color=fffff&line=ADD8E6&point=4D4DFF&title_color=00000&area_color=00000" alt="pgautam27" /></p>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=pgautam27&theme=github-light alt="pgautam27" /></p>
