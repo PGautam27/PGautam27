@@ -22,4 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pgautam27&show_icons=true&locale=en" alt="pgautam27" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pgautam27&" alt="pgautam27" /></p>
 <br>
-[![@pgautam27's Holopin board](https://holopin.io/api/user/board?user=pgautam27)](https://holopin.io/@pgautam27)
+(https://holopin.io/api/user/board?user=pgautam27)](https://holopin.io/@pgautam27)
