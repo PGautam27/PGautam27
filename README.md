@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gautam &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://komarev.com/ghpvc/?username=pgautam27&color=blue"></h1>
+<h1 align="center">Hi 👋, I'm Gautam &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://komarev.com/ghpvc/?username=pgautam27&color=blue"></h1>
 <p align="left"> <a href="https://holopin.io/@pgautam27"><img src="https://holopin.io/api/user/board?user=pgautam27" alt="pgautam27" /></a> </p>
 <h3 align="center">A passionate App developer and an Active Learner</h3>
 
