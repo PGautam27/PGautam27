@@ -1,6 +1,8 @@
-<h1 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi 👋, I'm Gautam <img align="right"src="https://komarev.com/ghpvc/?username=pgautam27&color=green"></h1>
+<h1 align="center">Hi 👋, I'm Gautam </h1>
 <h3 align="center">A passionate App developer and an Active Learner</h3>
 <p align="left"> <a href="https://holopin.io/@pgautam27"><img src="https://holopin.io/api/user/board?user=pgautam27" alt="pgautam27" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pgautam27&label=Profile%20views&color=49be25&style=flat" alt="pritamp20" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pgautam27&theme=matrix&column=-1" alt="pgautam27" /></a> </p>
 
 - 🌱 I’m currently learning **Kotlin, android studio, Python, and django**
