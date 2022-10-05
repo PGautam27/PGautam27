@@ -19,7 +19,96 @@
 <a href="https://www.hackerearth.com/@gautamvigi2705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@gautamvigi2705" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> &nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> &nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> &nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> &nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer">&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<table align="center">
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/A/android-new-2019-logo-3CD3BC571C-seeklogo.com.png" width="55"/>
+        <br>Android
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/A/android-studio-logo-1EE788C6EC-seeklogo.com.png" width="55"/>
+        <br>Android&nbsp;Studio
+    </td>
+    <td align="center" width="96">
+        <img src="https://imgs.search.brave.com/MnuFpmzmARPaz3FCzp7KkF8Jnpl60hxw5NFnMG5NpO8/rs:fit:586:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5Q/RVpKaE1FTEc4elBJ/SFhmUlEyUll3SGFG/XyZwaWQ9QXBp" width="55"/>
+        <br>Jetpack&nbsp;Compose
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/B/bootstrap-5-logo-85A1F11F4F-seeklogo.com.png" width="48"/>
+        <br>&nbsp;&nbsp;Bootstrap&nbsp;&nbsp;
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="43"/>
+        <br>&nbsp;&nbsp;Java&nbsp;&nbsp;
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png" width="48"/>
+        <br>&nbsp;Kotlin&nbsp;
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png" width="60"/>
+        <br>&nbsp;&nbsp;&nbsp;MySQL&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"  height="60" width="50"/>
+        <br>&nbsp;&nbsp;HTML&nbsp;&nbsp;
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png" width="70"/>
+        <br>&nbsp;&nbsp;CSS&nbsp;&nbsp;
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="60"/>
+        <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="60"/>
+        <br>Nodejs
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="48" alt="Rxjava"/>
+        <br>Python&nbsp;
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" width="60"/>
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;AWS&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" width="35"/>
+        <br>Firebase
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="48"/>
+        <br>Postman
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" width="48"/>
+        <br>&nbsp;Intellij&nbsp;
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="48" alt="Rxjava"/>
+        <br>&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" width="48" alt="Rxjava"/>
+        <br>Pycharm&nbsp;
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" width="30" alt="Rxjava"/>
+        <br>Figma
+    </td>
+    <td align="center" width="96">
+        <img src="https://imgs.search.brave.com/FP-kYQ9TVk7iE945QDc7ZmhcfoxX6qqujaxxpU2V3uo/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2U0/LmV4cGxpY2l0LmJp/bmcubmV0L3RoP2lk/PU9JUC4xd1pIQzMt/SkNaOGsyY2VnSXZ3/Y01RSGFIYSZwaWQ9/QXBp" alt="Rxjava"/>
+        <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" width="48" alt="Rxjava"/>
+        <br>Django&nbsp;
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/H/heroku-logo-B774A78667-seeklogo.com.png" width="48" alt="Rxjava"/>
+        <br>Heroku&nbsp;
+    </td>
+</table>
 <br>
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=pgautam27&theme=chartreuse-dark" alt="pgautam27" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pgautam27&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&card_width=300" height="195" alt="pgautam27" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pgautam27&show_icons=true&locale=en&theme=chartreuse-dark&card_width=420" alt="pgautam27"/></p>  
