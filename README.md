@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Kotlin, java, django, and android app dev**
 
-- 📫 How to reach me **gautamappu0@gmail.com**
+- 📫 How to reach me [P Gautam](https://linktr.ee/pgautam27)
 
 <h3 align="left">Connect with me:</h3>
 <table align="left">
