@@ -28,7 +28,7 @@
     <td align="center" witdth="96">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/gautam-p-5b43581b6/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="55"/>
-        <br>Twitter</a>
+        <br>LinkedIn</a>
     </td>
 </table>
 <br>
