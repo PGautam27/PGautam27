@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gautam </h1>
-<h3 align="center">A passionate App developer and an Active Learner</h3>
+<h3 align="center">A passionate tech enthusiast and an Active Learner</h3>
 <p align="left"> <a href="https://holopin.io/@pgautam27"><img src="https://holopin.io/api/user/board?user=pgautam27" alt="pgautam27" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pgautam27&label=Profile%20views&color=49be25&style=flat" alt="pritamp20" /> </p>
 
