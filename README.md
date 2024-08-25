@@ -30,11 +30,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="55"/>
         <br>Twitter</a>
     </td>
-    <td align="center" witdth="96">
-    <a href="https://www.hackerearth.com/@gautamvigi2705" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" width="55"/>
-        <br>Twitter</a>
-    </td>
 </table>
 <br>
 <br><br><br><br>
