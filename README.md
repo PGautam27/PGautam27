@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pgautam27&theme=matrix&column=-1" alt="pgautam27" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin, android studio, Python, and django**
+- 🌱 I’m currently learning **Kuberenetes, Docker, AWS, and other cloud services**
 
-- 💬 Ask me about **Kotlin, java, django, and android app dev**
+- 💬 Ask me about **native Android Dev, Frontend-React, Node.js, AWS**
   
 - 😁 Check out my website here [Goobles](https://goobles.netlify.app/)
   
