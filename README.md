@@ -32,7 +32,7 @@
     </td>
 </table>
 <br>
-<!-- <br><br><br><br> -->
+<br><br><br><br>
 <h3 align="left">Languages and Tools:</h3>
 <table align="center">
     <td align="center" width="96">
@@ -125,6 +125,6 @@
     </td>
 </table>
 <br>
-<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=pgautam27&theme=chartreuse-dark" alt="pgautam27" /></p>
+<!-- <p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=pgautam27&theme=chartreuse-dark" alt="pgautam27" /></p> -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pgautam27&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&card_width=300" height="195" alt="pgautam27" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pgautam27&show_icons=true&locale=en&theme=chartreuse-dark&card_width=420" alt="pgautam27"/></p>  
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pgautam27&theme=chartreuse-dark" alt="pgautam27" /></p>
