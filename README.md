@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **native Android Dev, Frontend-React, Node.js, AWS**
   
-- 😁 Check out my website here [Goobles](https://goobles.netlify.app/)
+- 😁 Check out my website here [Gautam Perumal](https://gp-dev-ops-portfolio.vercel.app/)
   
 - 📫 How to reach me [P Gautam](https://linktr.ee/pgautam27)
 
